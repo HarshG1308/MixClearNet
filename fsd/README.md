@@ -243,12 +243,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **WSJ0 Dataset**: Linguistic Data Consortium (LDC)
 - **Research Community**: SpeechBrain, ESPnet, and Asteroid frameworks
-- **Compute Resources**: [Your institution/cloud provider]
 - **Reviewers**: Anonymous reviewers for valuable feedback
 
 ## 📞 Contact
 
-- **Author**: Harsh Gautam
+- **Author**: Jharna Agrawal, Harsh Gautam
 - **Email**: hgqeir@gmail.com
 - **GitHub**: [@HarshG1308](https://github.com/HarshG1308)
 - **Project Link**: [https://github.com/HarshG1308/MixClearNet](https://github.com/HarshG1308/MixClearNet)
