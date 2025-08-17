@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+
+# Logs
+*.log
+
+# Results and temporary files
+*.tex
+*.png
+uploads/
+
+# Dataset
+wsj0/
+
+# TensorBoard logs
+runs/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE specific
+.vscode/
+*.code-workspace

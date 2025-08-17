@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Results</title>
+</head>
+<body>
+    <h1>Evaluation Results</h1>
+    <table border="1">
+        <tr>
+            <th>Metric</th>
+            <th>Value</th>
+        </tr>
+        {% for metric, value in results.items() %}
+        <tr>
+            <td>{{ metric }}</td>
+            <td>{{ value }}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    <h2>Visualization</h2>
+    <img src="{{ visualization }}" alt="Visualization">
+    <br>
+    <a href="/">Upload Another File</a>
+</body>
+</html>
